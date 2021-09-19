@@ -1,6 +1,6 @@
 # draw-pen
 
-[Canlı Web Sayfası] (https://enespolat25.github.io/draw-pen/)
+[Canlı Web Sayfası](https://enespolat25.github.io/draw-pen/)
 
 
 Sayfa Önizleme
